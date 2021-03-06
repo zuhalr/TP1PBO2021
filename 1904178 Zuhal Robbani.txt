@@ -1,0 +1,21 @@
+/*saya Zuhal Robbani
+mengerjakan Tugas Praktikum ke-1 dalam 
+mata kuliah Desain dan Pemrograman Beroreintasi Objek
+untuk keberkahanNya maka
+saya tidak melakukan kecurangan seperti
+yang telah dispesifikasikan.Aamiin.*/
+
+Kesulitan : 
+ - melawan rasa malas
+ - membuat design yang efektif dan efisien
+
+Hal Baru :
+ - berpindah antar form
+ - membuat dropdown
+ - button dengan hyperlink ke suatu web
+
+Fitur  yang sudah dikerjakan :
+ - login
+ - logout
+ - cari barang berdasarkan jenis & range harga
+ - detail barang
