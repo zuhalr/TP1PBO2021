@@ -1,0 +1,11 @@
+C:\Users\Zuhal Robbani\source\repos\TP1\obj\Debug\TP1.csprojAssemblyReference.cache
+C:\Users\Zuhal Robbani\source\repos\TP1\obj\Debug\TP1.Form1.resources
+C:\Users\Zuhal Robbani\source\repos\TP1\obj\Debug\TP1.Properties.Resources.resources
+C:\Users\Zuhal Robbani\source\repos\TP1\obj\Debug\TP1.csproj.GenerateResource.cache
+C:\Users\Zuhal Robbani\source\repos\TP1\obj\Debug\TP1.csproj.CoreCompileInputs.cache
+C:\Users\Zuhal Robbani\source\repos\TP1\bin\Debug\TP1.exe.config
+C:\Users\Zuhal Robbani\source\repos\TP1\bin\Debug\TP1.exe
+C:\Users\Zuhal Robbani\source\repos\TP1\bin\Debug\TP1.pdb
+C:\Users\Zuhal Robbani\source\repos\TP1\obj\Debug\TP1.exe
+C:\Users\Zuhal Robbani\source\repos\TP1\obj\Debug\TP1.pdb
+C:\Users\Zuhal Robbani\source\repos\TP1\obj\Debug\TP1.MenuUtama.resources
